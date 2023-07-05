@@ -4,7 +4,8 @@ Portfolio Attempt #1
 # Data Analytics Portfolio
 
 ## Introduction
-- My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+
+My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the mound has ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -15,12 +16,6 @@ With a commitment to continuous learning and professional growth, I have complet
 In this portfolio, I showcase my projects, skills, and achievements, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
-
-## Projects
-- # Data Analytics Portfolio
-
-## Introduction
-...
 
 ## Projects
 
@@ -41,12 +36,13 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 - **Description:** Examined combine data encompassing various physical tests, such as sprint times, vertical jump heights, and agility drills. Conducted statistical analyses and developed composite scoring models to assess athletic performance. Identified performance benchmarks for specific positions and provided insights to scouts and coaches for talent evaluation and player selection.
 
 
-## Tools and Technologies
+## Tools
   - R
   - SQL
   - Tableau
   - Excel/Sheets
 
+## Technologies
   - Vald ForceDecks
   - EnodePro LPT
   - Catapult GPS

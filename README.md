@@ -20,9 +20,11 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 ## Projects
 
 ### Project 1: Force Platform Position Analysis
-<img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" width="400" height="300">
+<div style="display:flex; justify-content:center;">
+  <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
+  <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
+</div>
 
-<img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" width="400" height="300">
 
 - Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting outliers to ensure data integrity and quality.
 - Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups.

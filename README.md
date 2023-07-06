@@ -18,6 +18,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 ### Project 1: Force Platform Position Analysis
 -----------------------------------------------
 #### [Google Sheet Link](https://docs.google.com/spreadsheets/d/1R7BfgahbKrSZehHcx4RD4oFlIsaq_NDf3g0P2mk__0U/edit?usp=sharing)
+#### [R Code](PositionBoxplot.R)
 <div style="display:flex; justify-content:center;">
   <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
   <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">

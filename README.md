@@ -38,6 +38,9 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ### Project 2: Asymmetry Assessment and Flagging
 
+<img src="HERE" alt="Single Leg Jump Asymmetries" style="width:400px;">
+</div>
+
 - <span style="font-size: 14px;">Objective:Develop a comprehensive assessment framework to evaluate asymmetries in various performance metrics, with a focus on peak landing force asymmetries, and flag individuals at higher risk of injury </span>
 - <span style="font-size: 14px;">Duration: Testing when returning to campus (3/23 - 11/23) </span>
 - <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>

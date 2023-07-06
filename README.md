@@ -16,6 +16,13 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 ## Projects
 
 ### Project 1: Force Platform Position Analysis
+
+- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform.</span>
+- <span style="font-size: 14px;">Duration: The analysis was conducted throughout the competitive season, spanning from early September to late November.</span>
+- <span style="font-size: 14px;">Sample: Starters from each position group were selected for testing on a weekly basis to capture their force production data.</span>
+
+
+
 -----------------------------------------------
 #### [Google Sheet Link](https://docs.google.com/spreadsheets/d/1R7BfgahbKrSZehHcx4RD4oFlIsaq_NDf3g0P2mk__0U/edit?usp=sharing)
 #### [R Code](PositionBoxplot.R)

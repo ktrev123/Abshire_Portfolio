@@ -20,7 +20,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 ## Projects
 
 ### Project 1: Force Platform Position Analysis
-![mRSI by Position](https://github.com/ktrev123/Abshire_Portfolio/raw/main/assets/138731104/e41b2b66-b85f-4b16-8401-17c33f2e7eb6.png){: width="400px" height="300px" }](https://github.com/ktrev123/Abshire_Portfolio/raw/main/assets/138731104/e41b2b66-b85f-4b16-8401-17c33f2e7eb6.png)
+<img src="https://github.com/ktrev123/Abshire_Portfolio/raw/main/assets/138731104/e41b2b66-b85f-4b16-8401-17c33f2e7eb6.png" width="400" alt="mRSI by Position">
 
 ![Relative Peak Force by Position](https://github.com/ktrev123/Abshire_Portfolio/assets/138731104/8657f5dc-9623-4a3d-8309-327a9493eb44)
 - Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting outliers to ensure data integrity and quality.

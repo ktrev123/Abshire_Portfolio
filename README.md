@@ -17,9 +17,9 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ### Project 1: Force Platform Position Analysis
 
-- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform.</span>
-- <span style="font-size: 14px;">Duration: The analysis was conducted throughout the competitive season, spanning from early September to late November.</span>
-- <span style="font-size: 14px;">Sample: Starters from each position group were selected for testing on a weekly basis to capture their force production data.</span>
+- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform </span>
+- <span style="font-size: 14px;">Duration: The analysis was conducted throughout the competitive season, spanning from early September to late November </span>
+- <span style="font-size: 14px;">Sample: Starters from each position group were selected for testing on a weekly basis to capture their force production data </span>
 
 
 
@@ -36,6 +36,11 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 - Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups.
 - Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies.
 
+### Project 2: Asymmetry Assessment and Flagging
+
+- <span style="font-size: 14px;">Objective:Develop a comprehensive assessment framework to evaluate asymmetries in various performance metrics, with a focus on peak landing force asymmetries, and flag individuals at higher risk of injury </span>
+- <span style="font-size: 14px;">Duration: Testing when returning to campus (3/23 - 11/23) </span>
+- <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>
 
 ## Statistical Software
   - R

@@ -19,21 +19,14 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ## Projects
 
-### Project 1: Force Platform Analysis for Injury Prevention
-- **Objective:** Analyze force platform data collected from athletes during various movements (e.g., jumps, landings) to identify potential injury risk factors.
-- **Description:** Utilized force platform data to quantify ground reaction forces, loading rates, and other relevant metrics. Conducted statistical analysis to identify correlations between force variables and injury occurrence. Developed actionable recommendations for modifying training protocols and technique to minimize injury risks.
+### Project 1: Force Platform Position Analysis
+![mRSI by Position](https://github.com/ktrev123/Abshire_Portfolio/assets/138731104/e41b2b66-b85f-4b16-8401-17c33f2e7eb6)
+![Relative Peak Force by Position](https://github.com/ktrev123/Abshire_Portfolio/assets/138731104/8657f5dc-9623-4a3d-8309-327a9493eb44)
+- Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting outliers to ensure data integrity and quality.
+- Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups.
+- Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies.
 
-### Project 2: Performance Analysis using GPS Data
-- **Objective:** Explore the relationship between performance metrics and GPS data collected during training sessions and games.
-- **Description:** Integrated GPS data, including speed, distance, and acceleration, with performance metrics such as running times, player workload, and game statistics. Employed data visualization techniques to identify patterns, trends, and performance benchmarks. Provided insights to coaches and athletes to optimize training strategies, improve performance, and make data-informed decisions.
 
-### Project 3: Velocity-Based Training (VBT) Optimization
-- **Objective:** Optimize training programs using VBT data to enhance strength and power development.
-- **Description:** Analyzed VBT data capturing barbell velocity and power output during strength training exercises. Developed algorithms to assess individual strength profiles, determine optimal loading parameters, and predict performance outcomes. Created visualizations and dashboards to monitor and guide training progress, aiding coaches in adjusting loads and intensities based on real-time velocity feedback.
-
-### Project 4: Combine Data Analysis for Talent Evaluation
-- **Objective:** Analyze combine data to assess athletic potential and identify key performance indicators for player evaluation.
-- **Description:** Examined combine data encompassing various physical tests, such as sprint times, vertical jump heights, and agility drills. Conducted statistical analyses and developed composite scoring models to assess athletic performance. Identified performance benchmarks for specific positions and provided insights to scouts and coaches for talent evaluation and player selection.
 
 
 ## Tools

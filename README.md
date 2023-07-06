@@ -1,7 +1,3 @@
-# Abshire_Portfolio
-Portfolio Attempt #1
-
-# Data Analytics Portfolio
 
 ## Introduction
 
@@ -20,6 +16,8 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 ## Projects
 
 ### Project 1: Force Platform Position Analysis
+-----------------------------------------------
+#### [Google Sheet Link](https://docs.google.com/spreadsheets/d/1R7BfgahbKrSZehHcx4RD4oFlIsaq_NDf3g0P2mk__0U/edit?usp=sharing)
 <div style="display:flex; justify-content:center;">
   <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
   <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
@@ -31,7 +29,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 - Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies.
 
 
-## Tools
+## Statistical Software
   - R
   - SQL
   - Tableau
@@ -39,8 +37,11 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ## Technologies
   - Vald ForceDecks
+  - Vald ForceFrame
+  - Hawkins Dynamics Force Platforms
   - EnodePro LPT
   - Catapult GPS
+  - 1080 Sprint
   
 ## Skills
   - Data cleaning and preprocessing
@@ -49,12 +50,12 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Statistical analysis and modeling
   - Data storytelling
   
-## Certifications and Courses
-- Mention any relevant certifications or online courses you have completed, such as:
-  - Google Data Analytics Certificate
-  - Certified Performance Sport Scientist
-  - M.S.
+## Certifications
+  - [Google Data Analytics Certificate](https://www.credly.com/badges/fb57a3e1-5304-4f60-afeb-288650ca91fe/linked_in_profile)
+  - [Certified Strength and Conditioning Specialist](https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g)
+  - [Certified Performance and Sport Scientist](https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo)
+    
 
 ## Contact Information
 - t.abshire.fitness@gmail.com
-
+- [Visit my LinkedIn profile](https://www.linkedin.com/in/trevorabshire/)

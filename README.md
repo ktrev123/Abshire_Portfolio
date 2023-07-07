@@ -1,9 +1,9 @@
 
-## Introduction
+## Trevor Dean Abshire MS, CSCS, CPSS
 
-My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
-As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the mound has ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
+As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field and the weight room have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders.
 

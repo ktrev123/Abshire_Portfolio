@@ -17,14 +17,9 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ### Project 1: Force Platform Position Analysis
 
-- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform </span>
-- <span style="font-size: 14px;">Duration: The analysis was conducted throughout the competitive season, spanning from early September to late November </span>
-- <span style="font-size: 14px;">Sample: 4 starters from each position group were selected for testing on a weekly basis to capture their force production data </span>
-
-
+- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform. </span>
 
 -----------------------------------------------
-#### [Google Sheet Link](https://docs.google.com/spreadsheets/d/1R7BfgahbKrSZehHcx4RD4oFlIsaq_NDf3g0P2mk__0U/edit?usp=sharing)
 #### [R Code](PositionBoxplot.R)
 <div style="display:flex; justify-content:center;">
   <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
@@ -38,9 +33,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ### Project 2: Asymmetry Assessment and Flagging
 
-- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </span>
-- <span style="font-size: 14px;">Duration: Various testing dates when returning to campus (3/23 - 11/23) </span>
-- <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>
+- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces. </span>
 
 <img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
 

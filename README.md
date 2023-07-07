@@ -67,7 +67,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Data storytelling
   
 ## Certifications
-  - [Google Data Analytics Certificate](https://www.credly.com/badges/fb57a3e1-5304-4f60-afeb-288650ca91fe/linked_in_profile)
+  - [Google Data Analytics Certificate](Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
   - [Certified Strength and Conditioning Specialist](https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g)
   - [Certified Performance and Sport Scientist](https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo)
     

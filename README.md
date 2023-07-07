@@ -26,7 +26,7 @@ Projects
 
  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/4852adc4-633f-45d1-a272-3fe9c5af0952" alt="image" width="600">
 
-2. Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.
+2. Find TEST TEST the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.
 
  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/1bd2dd57-5278-4966-99c8-b40bd4b6f0bc" alt="image" width="600">
 

@@ -18,7 +18,7 @@ Projects
 
 ### Project 1: Force Platform Position Analysis
 
-- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.
+- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
 
 #### [R Code](PositionBoxplot.R)
 <div style="display:flex; justify-content:center;">
@@ -32,9 +32,9 @@ Projects
 
 ### Project 2: Asymmetry Assessment and Flagging
 
+- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </span>
 
-- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces. </span>
-
+#### [R Code](SL_Jump.R)
 <img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
 
 - Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality

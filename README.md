@@ -73,5 +73,5 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     
 
 ## Contact Information
-- t.abshire.fitness@gmail.com
+- [tdabshire@ucdavis.edu](tdabshire@ucdavis.edu)
 - [Visit my LinkedIn profile](https://www.linkedin.com/in/trevorabshire/)

@@ -1,5 +1,5 @@
 
-## Trevor Dean Abshire MS, CSCS, CPSS
+## Trevor Dean Abshire, M.S., CSCS, CPSS
 
 My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 

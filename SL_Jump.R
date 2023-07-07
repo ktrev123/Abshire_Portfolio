@@ -10,7 +10,7 @@ library(readr)
 library(lubridate)
 
 library(readr)
-SL_Jump_Mod <- read_csv("Desktop/Portfolio/Project 2 (Football Concentric Peak Force)/SL_Jump_Mod.csv")
+SL_Jump_Mod <- read_csv("SL_Jump_Mod.csv")
 View(SL_Jump_Mod)
 
 ## Historic SL Jump data ##
@@ -39,8 +39,11 @@ colors[which(hist_data$breaks[-1] %in% c(15, 20))] <- "orange"
   # Add legend/key
   legend("topright", legend = c("Normal", "Moderate", "Caution"),
          fill = c("skyblue", "orange", "red"), border = "black")
-
-
-
   
+  # Subset the data based on the condition
+  Asymm_List <- SL_Jump_Mod[SL_Jump_Mod$`Peak_Landing_Force_Asym_%` > 15, c("Name", "Peak_Landing_Force_Asym_%")]
   
+  library(knitr)
+  
+  # Print the subsetted data
+  kable(Asymm_List)

@@ -9,7 +9,7 @@ Throughout my career, I have successfully applied data analytics techniques to a
 
 With a commitment to continuous learning and professional growth, I have completed certifications in data science and data visualization, further strengthening my analytical skills and expanding my knowledge in the field.
 
-In this portfolio, I showcase my projects, skills, and achievements, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
+In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
@@ -19,7 +19,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 - <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform </span>
 - <span style="font-size: 14px;">Duration: The analysis was conducted throughout the competitive season, spanning from early September to late November </span>
-- <span style="font-size: 14px;">Sample: Starters from each position group were selected for testing on a weekly basis to capture their force production data </span>
+- <span style="font-size: 14px;">Sample: 4 starters from each position group were selected for testing on a weekly basis to capture their force production data </span>
 
 
 
@@ -32,18 +32,22 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 </div>
 
 
-- Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting outliers to ensure data integrity and quality.
-- Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups.
-- Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies.
+- Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting systematic outliers to ensure data integrity and quality
+- Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups
+- Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies
 
 ### Project 2: Asymmetry Assessment and Flagging
 
+- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </span>
+- <span style="font-size: 14px;">Duration: Various testing dates when returning to campus (3/23 - 11/23) </span>
+- <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>
+
 <img src="SL_Jump_BarChart" alt="Single Leg Jump Asymmetries" style="width:400px;">
 
+- Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality.
+- Leveraged my expertise in anatomy and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis.
+- Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes.
 
-- <span style="font-size: 14px;">Objective:Develop a comprehensive assessment framework to evaluate asymmetries in various performance metrics, with a focus on peak landing force asymmetries, and flag individuals at higher risk of injury </span>
-- <span style="font-size: 14px;">Duration: Testing when returning to campus (3/23 - 11/23) </span>
-- <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>
 
 ## Statistical Software
   - R
@@ -51,7 +55,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Tableau
   - Excel/Sheets
 
-## Technologies
+## Performance Technologies
   - Vald ForceDecks
   - Vald ForceFrame
   - Hawkins Dynamics Force Platforms

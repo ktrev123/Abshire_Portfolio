@@ -42,7 +42,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 - <span style="font-size: 14px;">Duration: Various testing dates when returning to campus (3/23 - 11/23) </span>
 - <span style="font-size: 14px;">Sample: 82 Divison 1 football players </span>
 
-<img src="SL_Jump_BarChart" alt="Single Leg Jump Asymmetries" style="width:400px;">
+<img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
 
 - Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality.
 - Leveraged my expertise in anatomy and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis.

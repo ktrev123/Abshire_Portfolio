@@ -39,5 +39,8 @@ colors[which(hist_data$breaks[-1] %in% c(15, 20))] <- "orange"
   # Add legend/key
   legend("topright", legend = c("Normal", "Moderate", "Caution"),
          fill = c("skyblue", "orange", "red"), border = "black")
+
+
+
   
   

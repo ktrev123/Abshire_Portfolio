@@ -42,7 +42,44 @@ Projects
 - Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
 
 
-## Statistical Software
+### Project 3: KinaTrax Pitching Data - Case Study
+
+- <span style="font-size: 14px;">Objective: Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes <br> (Averages, Launch Angles, Spin Rates, Elbow Varus Torque)    </span>
+
+1. Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.
+
+<img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/4852adc4-633f-45d1-a272-3fe9c5af0952" alt="image" width="600">
+
+2. Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.
+
+
+<img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/1bd2dd57-5278-4966-99c8-b40bd4b6f0bc" alt="image" width="600">
+
+3. Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>
+What pitch type (Pitch_Type) was thrown to the batter on each hit?<br>
+What was the launch angle (Launch_Angle) on each hit?<br>
+What was the result of each play (Play_Result)?<br>
+Bullet-point up to 3 primary insights you can derive from this ranking.
+
+<img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bb1824e8-79ba-404e-afc4-ee6b1df9032f" alt="image" width="600">
+
+- 11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches
+- Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs
+- If a hitter can achieve high exit velocities (>100mph), coaches might consider implementing practice drills where hitters are encouraged to attack the ball within 10 to 26 degrees of launch angle
+
+4. Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)
+<br> a. Provide a brief, 1-2 sentence explanation of the statistical test run and the results.
+
+To assess whether there is a significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98, a Shapiro-Wilk normality test was used to test the normality of the observations along with an F-test to assess variance equality. Because the observations within both pitchers were normal and the variance between pitchers was unequal, a Welch's t-test was used and a p-value less than 0.001 (2e-16) was found, indicating that there is a statistically significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98.
+
+<img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600">
+
+
+
+
+
+
+## Statistical and Visualization Software
   - R
   - SQL
   - Tableau

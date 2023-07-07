@@ -3,7 +3,7 @@
 
 My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
-As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field and the weight room have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
+As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field and in the weight room have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders.
 
@@ -13,19 +13,18 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
-## Projects
+Projects
+======================
 
 ### Project 1: Force Platform Position Analysis
 
-- <span style="font-size: 14px;">Objective: Analyze the performance and force production characteristics of starters from each position group using the Vald ForceDecks force platform. </span>
+- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.
 
------------------------------------------------
 #### [R Code](PositionBoxplot.R)
 <div style="display:flex; justify-content:center;">
   <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
   <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
 </div>
-
 
 - Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting systematic outliers to ensure data integrity and quality
 - Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups
@@ -33,13 +32,14 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 ### Project 2: Asymmetry Assessment and Flagging
 
+
 - <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces. </span>
 
 <img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
 
-- Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality.
-- Leveraged my expertise in anatomy and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis.
-- Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes.
+- Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality
+- Leveraged my expertise in human kinematics and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis
+- Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
 
 
 ## Statistical Software

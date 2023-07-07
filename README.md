@@ -74,8 +74,24 @@ To assess whether there is a significant difference in mean elbow varus torque a
 
 <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600">
 
+<img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/8b111a22-a3bf-42c0-a7b4-62a9d679b42f" alt="image" width="600">
+
+5. Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher (choose only 1 to report on). The final report should target a sport scientist as the primary reader of the report. Feel free to investigate the entirety of the data set for additional insights.
+
+Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
+Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
+While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
+
+<div style="display: flex;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ba0fd615-1778-4228-a22b-93b476dd07f6" alt="image" width="350">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/9a18df51-59d3-4589-8376-9e6a8e5810e1" alt="image" width="350">
+</div>
 
 
+<div style="display: flex;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/665b4900-804e-445d-89b6-478649cd14e9" alt="image" width="350">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ec8d25f6-b16d-4e8d-bff9-fe209bcf7355" alt="image" width="350">
+</div>
 
 
 

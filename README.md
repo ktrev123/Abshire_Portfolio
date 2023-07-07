@@ -16,35 +16,11 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 Projects
 ======================
 
-### Project 1: Force Platform Position Analysis
-
-- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
-
-#### [R Code](PositionBoxplot.R)
-<div style="display:flex; justify-content:center;">
-  <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
-  <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
-</div>
-
-- Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting systematic outliers to ensure data integrity and quality
-- Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups
-- Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies
-
-### Project 2: Asymmetry Assessment and Flagging
-
-- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </span>
-
-#### [R Code](SL_Jump.R)
-<img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
-
-- Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality
-- Leveraged my expertise in human kinematics and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis
-- Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
-
-
-### Project 3: KinaTrax Pitching Data - Case Study
+### Project 1: KinaTrax Pitching Data - Case Study
 
 - <span style="font-size: 14px;">Objective: Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes <br> (Averages, Launch Angles, Spin Rates, Elbow Varus Torque)    </span>
+
+#### [R Code](Project3_Rcode)
 
 1. Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.
 
@@ -68,7 +44,6 @@ Bullet-point up to 3 primary insights you can derive from this ranking.
 - If a hitter can achieve high exit velocities (>100mph), coaches might consider implementing practice drills where hitters are encouraged to attack the ball within 10 to 26 degrees of launch angle
 
 4. Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)
-<br> a. Provide a brief, 1-2 sentence explanation of the statistical test run and the results.
 
 To assess whether there is a significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98, a Shapiro-Wilk normality test was used to test the normality of the observations along with an F-test to assess variance equality. Because the observations within both pitchers were normal and the variance between pitchers was unequal, a Welch's t-test was used and a p-value less than 0.001 (2e-16) was found, indicating that there is a statistically significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98.
 
@@ -76,7 +51,7 @@ To assess whether there is a significant difference in mean elbow varus torque a
 
 <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/8b111a22-a3bf-42c0-a7b4-62a9d679b42f" alt="image" width="600">
 
-5. Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher (choose only 1 to report on). The final report should target a sport scientist as the primary reader of the report. Feel free to investigate the entirety of the data set for additional insights.
+5. Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.
 
 Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
 Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
@@ -93,6 +68,31 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ec8d25f6-b16d-4e8d-bff9-fe209bcf7355" alt="image" width="350">
 </div>
 
+### Project 2: Force Platform Position Analysis
+
+- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
+
+#### [R Code](PositionBoxplot.R)
+<div style="display:flex; justify-content:center;">
+  <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
+  <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
+</div>
+
+- Processed and cleaned a substantial dataset consisting of over 1000 data points, meticulously eliminating null values and detecting systematic outliers to ensure data integrity and quality
+- Employed advanced R coding techniques to filter and segment the dataset based on position groups, enabling focused analysis and generating insightful visualizations tailored to specific groups
+- Leveraged data analytics and statistical modeling in R to identify position groups that exhibited specific requirements for improved reactive and concentric strength, allowing for targeted training interventions and performance optimization strategies
+
+### Project 3: Asymmetry Assessment and Flagging
+
+- <span style="font-size: 14px;">Objective: Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </span>
+
+#### [R Code](SL_Jump.R)
+<img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
+
+- Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality
+- Leveraged my expertise in human kinematics and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis
+- Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
+
 
 
 ## Statistical and Visualization Software
@@ -100,6 +100,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   - SQL
   - Tableau
   - Excel/Sheets
+  - SPSS
 
 ## Performance Technologies
   - Vald ForceDecks
@@ -107,6 +108,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   - Hawkins Dynamics Force Platforms
   - EnodePro LPT
   - Catapult GPS
+  - Kinexon GPS
   - 1080 Sprint
   
 ## Skills

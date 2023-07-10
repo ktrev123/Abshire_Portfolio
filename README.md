@@ -104,6 +104,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 ## Performance Technologies
   - Vald ForceDecks
   - Vald ForceFrame
+  - Vald NordBoard
   - Hawkins Dynamics Force Platforms
   - EnodePro LPT
   - Catapult GPS

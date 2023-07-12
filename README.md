@@ -5,6 +5,12 @@ My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as A
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field and in the weight room have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
+During my comprehensive biomechanics experience, I had the opportunity to delve into various domains, including pitching, powerlifting, gait analysis, jumping, and isolated joint kinematics. I had the opportunity to capture, clean, and analyze data to contribute to research and my own projects. I was even a subject in a competitive deadlift study!
+
+
+[![YouTube Video](https://img.youtube.com/vi/K75-x8oRwc8/0.jpg)](https://youtu.be/K75-x8oRwc8)
+
+
 Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders.
 
 With a commitment to continuous learning and professional growth, I have completed certifications in data science and data visualization, further strengthening my analytical skills and expanding my knowledge in the field.

@@ -1,11 +1,11 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-My name is Trevor Abshire, I am an ex-collegiate athlete, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field and in the weight room have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
-During my comprehensive biomechanics experience, I had the opportunity to delve into various domains, including pitching, powerlifting, gait analysis, jumping, and isolated joint kinematics. I had the opportunity to capture, clean, and analyze data to contribute to research and my own projects. I was even a subject in a competitive deadlift study!
+During my comprehensive biomechanics experience, I had the opportunity to delve into various domains, including pitching, powerlifting, gait analysis, jumping, and isolated joint kinematics. I have hands on experience with calibrating and capturing kinematic data from motion capture systems. I also have collected, cleaned, and analyzed various performance data to contribute to research and my own projects and professional endeavors. I was even a subject in a competitive deadlift case study!
 
 
 [![Video Thumbnail](https://img.youtube.com/vi/K75-x8oRwc8/0.jpg)](https://youtu.be/K75-x8oRwc8)
@@ -14,9 +14,8 @@ During my comprehensive biomechanics experience, I had the opportunity to delve 
 
 
 
-Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders.
+Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders. I am currently taking a Python course from the University of Michigan which I am enjoying very much. 
 
-With a commitment to continuous learning and professional growth, I have completed certifications in data science and data visualization, further strengthening my analytical skills and expanding my knowledge in the field.
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
@@ -25,7 +24,6 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 <details><summary><h2>Athletic Data Projects</h2></summary>
 
-======================
 
 ### Project 1: KinaTrax Pitching Data - Case Study
 
@@ -110,9 +108,10 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
   ### Project 4: Football Roster Web Scrape
 
-- <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet use    </span>
+  [Python Code](RosterWebsiteScrape.py)
 
-[Python Code](RosterWebsiteScrape.py)
+- <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use    </span>
+
 
 
 

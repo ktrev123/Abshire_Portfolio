@@ -66,9 +66,10 @@ Considering the anatomical requirements of both the lower and upper extremities 
 While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
 
 <div style="display: flex;">
-  <img src="UpperExtremityCorrelation.png" alt="image" width="350">
-  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/9a18df51-59d3-4589-8376-9e6a8e5810e1" alt="image" width="350">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ad4622d5-d89c-4742-af9f-3bd4115adece" alt="image" width="350">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bcc80123-bb00-4bf8-af3f-736d4211e71a" alt="image" width="350">
 </div>
+
 
 
 <div style="display: flex;">

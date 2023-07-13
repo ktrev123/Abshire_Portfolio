@@ -74,7 +74,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - <strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
   </p>
   
-  <h4>R Code</h4>
+ [R Code](PositionBoxplot.R)
   <div style="display:flex; justify-content:center;">
     <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
     <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">

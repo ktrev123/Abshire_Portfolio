@@ -109,7 +109,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
   ### Project 4: Football Roster Web Scrape
 
-- <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet use.    </span>
+- <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet use    </span>
 
 
 

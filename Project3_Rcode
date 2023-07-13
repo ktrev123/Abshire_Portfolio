@@ -85,8 +85,7 @@ LowerBodyMetrics <- data.frame(
   Lead_Ankle_EvInv = DataSetNumeric$Lead_Ankle_EvInv_MER,
   Lead_Knee_Flex = DataSetNumeric$Lead_Knee_Flex_Vel_MER,
   Pelvis_Rot = DataSetNumeric$Pelvis_Rotation_MER,
-  Trunk_Lean = DataSetNumeric$Trunk_Lean_MER,
-  VeloTorque)
+  Trunk_Lean = DataSetNumeric$Trunk_Lean_MER)
 
 ### Upper Body Metrics - ALL AT MER#
 
@@ -94,56 +93,46 @@ UpperBodyMetrics <- data.frame(
   Sho_AbdAd = DataSetNumeric$Sho_AbAd_MER,
   Elb_Flex = DataSetNumeric$Elb_Flex_MER,
   Shoudler_IrEr = DataSetNumeric$Sho_Rot_MER,
-  Elb_ProSup = DataSetNumeric$Elb_ProSup_MER,
-  VeloTorque)
+  Elb_ProSup = DataSetNumeric$Elb_ProSup_MER)
 
-### Correlation Between Upper/Lower Metrics w/ Velocity & Torque)
+# Calculate correlations between LowerBodyMetrics and VeloTorque
+correlations_lower <- cor(LowerBodyMetrics, VeloTorque)
 
-cor_upper <- cor(UpperBodyMetrics, VeloTorque)
-cor_lower <- cor(LowerBodyMetrics, VeloTorque)
-
-# Create sub-matrix with lower triangle correlations
-triangle_correlations_upper <- cor_upper * lower.tri(cor_upper)
-triangle_correlations_lower <- cor_lower * lower.tri(cor_lower)
-
-# Transform the matrices to tibbles
-correlations_upper <- triangle_correlations_upper %>%
-  as_tibble(rownames = 'variable1') %>%
-  pivot_longer(cols = -1, names_to = 'variable2', values_to = 'correlation') %>%
-  filter(abs(correlation) > 0 & abs(correlation) < 1) %>%
-  mutate(
-    pair = paste(variable1, variable2, sep = ' + '),
-    pair = fct_reorder(pair, correlation)
-  )
-
-correlations_lower <- triangle_correlations_lower %>%
-  as_tibble(rownames = 'variable1') %>%
-  pivot_longer(cols = -1, names_to = 'variable2', values_to = 'correlation') %>%
-  filter(abs(correlation) > 0 & abs(correlation) < 1) %>%
-  mutate(
-    pair = paste(variable1, variable2, sep = ' + '),
-    pair = fct_reorder(pair, correlation)
-  )
+# Convert correlations to a tidy dataframe
+correlations_lower_df <- correlations_lower %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "LowerMetric") %>%
+  gather(key = "VeloTorqueMetric", value = "Correlation", -LowerMetric) %>%
+  filter(LowerMetric != "VarusTorque" & LowerMetric != "PitchVelo")
 
 # Create color for bars
 my_col <- viridisLite::mako(3)[2]
 
-# Create chart for correlations between UpperBodyMetrics and VeloTorque
-correlations_upper %>% 
-  ggplot(aes(x = correlation, y = pair)) + 
-  geom_col(fill = my_col) +
-  labs(x = 'Correlation', y = NULL) +
-  ggtitle("Upper Extremity Correlations") +
-  scale_x_continuous(limits = c(-0.5, 0.5))
-
 # Create chart for correlations between LowerBodyMetrics and VeloTorque
-correlations_lower %>% 
-  ggplot(aes(x = correlation, y = pair)) + 
+correlations_lower_df %>% 
+  ggplot(aes(x = Correlation, y = paste(LowerMetric, VeloTorqueMetric, sep = " + "))) + 
   geom_col(fill = my_col) +
   labs(x = 'Correlation', y = NULL) +
-  ggtitle("Trunk and Lower Extremity Correlations") +
-  scale_x_continuous(limits = c(-0.5, 0.5))
+  ggtitle("Trunk & Lower Body Correlations @ MER") +
+  scale_x_continuous(limits = c(-.5, .5))
 
+# Calculate correlations between UpperBodyMetrics and VeloTorque
+correlations_upper <- cor(UpperBodyMetrics, VeloTorque)
+
+# Convert correlations to a tidy dataframe
+correlations_upper_df <- correlations_upper %>%
+  as.data.frame() %>%
+  rownames_to_column(var = "UpperMetric") %>%
+  gather(key = "VeloTorqueMetric", value = "Correlation", -UpperMetric) %>%
+  filter(UpperMetric != "VarusTorque" & UpperMetric != "PitchVelo")
+
+# Create chart for correlations between UpperBodyMetrics and VeloTorque
+correlations_upper_df %>% 
+  ggplot(aes(x = Correlation, y = paste(UpperMetric, VeloTorqueMetric, sep = " + "))) + 
+  geom_col(fill = my_col) +
+  labs(x = 'Correlation', y = NULL) +
+  ggtitle("Upper Body Correlations @ MER") +
+  scale_x_continuous(limits = c(-.5, .5))
 
 
 ### PART 3 ###

@@ -1,4 +1,5 @@
 
+### PART 1 ###
 #load data
 PitcherData<- read.csv("PitcherData.csv")
 PitcherData2 <- read.csv("PitcherData2.csv")
@@ -63,12 +64,15 @@ qplot(x = PitcherData$id_Pitcher,
       xlab = "")
 
 
-
+### PART 2 ###
+# Load required libraries
 library(readr)
+library(tidyverse)
+library(viridisLite)
+
+# Read the dataset from CSV file
 DataSetNumeric <- read_csv("DataSetNumeric.csv")
 View(DataSetNumeric)
-
-library(tidyverse)
 
 ### Label Ball Velocity, Varus Torque @ MER ###
 
@@ -94,19 +98,55 @@ UpperBodyMetrics <- data.frame(
   VeloTorque)
 
 ### Correlation Between Upper/Lower Metrics w/ Velocity & Torque)
-  
-  cor(UpperBodyMetrics, VeloTorque)
-  cor(LowerBodyMetrics, VeloTorque)
 
-library(corrplot)
-  
-### Make Correlation Matrix ###
-  
-  corrplot(cor(UpperBodyMetrics), method = "color", 
-            addCoef.col = "black", order = "AOE")
-  corrplot(cor(LowerBodyMetrics), method = "color", 
-            addCoef.col = "black", order = "AOE")
+cor_upper <- cor(UpperBodyMetrics, VeloTorque)
+cor_lower <- cor(LowerBodyMetrics, VeloTorque)
 
+# Create sub-matrix with lower triangle correlations
+triangle_correlations_upper <- cor_upper * lower.tri(cor_upper)
+triangle_correlations_lower <- cor_lower * lower.tri(cor_lower)
+
+# Transform the matrices to tibbles
+correlations_upper <- triangle_correlations_upper %>%
+  as_tibble(rownames = 'variable1') %>%
+  pivot_longer(cols = -1, names_to = 'variable2', values_to = 'correlation') %>%
+  filter(abs(correlation) > 0 & abs(correlation) < 1) %>%
+  mutate(
+    pair = paste(variable1, variable2, sep = ' + '),
+    pair = fct_reorder(pair, correlation)
+  )
+
+correlations_lower <- triangle_correlations_lower %>%
+  as_tibble(rownames = 'variable1') %>%
+  pivot_longer(cols = -1, names_to = 'variable2', values_to = 'correlation') %>%
+  filter(abs(correlation) > 0 & abs(correlation) < 1) %>%
+  mutate(
+    pair = paste(variable1, variable2, sep = ' + '),
+    pair = fct_reorder(pair, correlation)
+  )
+
+# Create color for bars
+my_col <- viridisLite::mako(3)[2]
+
+# Create chart for correlations between UpperBodyMetrics and VeloTorque
+correlations_upper %>% 
+  ggplot(aes(x = correlation, y = pair)) + 
+  geom_col(fill = my_col) +
+  labs(x = 'Correlation', y = NULL) +
+  ggtitle("Upper Extremity Correlations") +
+  scale_x_continuous(limits = c(-0.5, 0.5))
+
+# Create chart for correlations between LowerBodyMetrics and VeloTorque
+correlations_lower %>% 
+  ggplot(aes(x = correlation, y = pair)) + 
+  geom_col(fill = my_col) +
+  labs(x = 'Correlation', y = NULL) +
+  ggtitle("Trunk and Lower Extremity Correlations") +
+  scale_x_continuous(limits = c(-0.5, 0.5))
+
+
+
+### PART 3 ###
 library(tidyverse)
 
 library(readr)

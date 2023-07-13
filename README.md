@@ -53,7 +53,7 @@ Bullet-point up to 3 primary insights you can derive from this ranking.
 
 4.Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)
 
- To assess whether there is a significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98, a Shapiro-Wilk normality test was used to test the normality of the observations along with an F-test to assess variance equality. Because the observations within both pitchers were normal and the variance between pitchers was unequal, a Welch's t-test was used and a p-value less than 0.001 (2e-16) was found, indicating that there is a statistically significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98.
+ To assess whether there is a significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98, a Shapiro-Wilk normality test was used to test the normality of the observations (p-value: Pitcher21 = 0.115, Pitcher98 = 0.7193) along with an F-test to assess variance equality (p-value = 0.0005546). Because the observations within both pitchers were normal and the variance between pitchers was unequal, a Welch's t-test was used and a p-value less than 0.001 (2e-16) was found, indicating that there is a statistically significant difference in mean elbow varus torque at max shoulder external rotation between Pitcher21 and Pitcher98.
 
 <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600">
 

@@ -22,7 +22,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
 
-<details><summary><h2>Athletic Data Projects</h2></summary>
+<h2>Athletic Data Projects</h2>
 
 
 ### Project 1: KinaTrax Pitching Data - Case Study
@@ -101,10 +101,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 - Leveraged my expertise in human kinematics and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis
 - Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
 
-</details>
 
-<details>
-  <summary><h2>General Coding Projects</h2></summary>
+<h2>General Coding Projects</h2>
 
   ### Project 4: Football Roster Web Scrape
 

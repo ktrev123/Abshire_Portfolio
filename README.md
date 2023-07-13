@@ -24,6 +24,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 <details>
   <summary><h2>Athletic Data Projects</h2></summary>
+
 ======================
 
 ### Project 1: KinaTrax Pitching Data - Case Study

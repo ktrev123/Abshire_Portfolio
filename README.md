@@ -22,8 +22,8 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
-<details>
-  <summary><h2>Athletic Data Projects</h2></summary>
+
+<details><summary><h2>Athletic Data Projects</h2></summary>
 
 ======================
 

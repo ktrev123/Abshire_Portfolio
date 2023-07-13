@@ -22,7 +22,8 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
-Projects
+<details>
+  <summary><h2>Athletic Data Projects</h2></summary>
 ======================
 
 ### Project 1: KinaTrax Pitching Data - Case Study
@@ -78,7 +79,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
 ### Project 2: Force Platform Position Analysis
 
-- <span style="font-size: 14px; text-indent: 20px; text-decoration: underline;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
+- <span style="font-size: 14px; text-indent: 20px;">Objective:</span> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
 
 #### [R Code](PositionBoxplot.R)
 <div style="display:flex; justify-content:center;">
@@ -101,7 +102,18 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 - Leveraged my expertise in human kinematics and understanding of football to identify eccentric landing capabilities as a relevant metric for analysis
 - Developed a comprehensive data visualization showcasing the frequency of tests exhibiting different levels of asymmetry, providing valuable insights into the performance characteristics of the athletes
 
+</details>
 
+<details>
+  <summary><h2>General Coding Projects</h2></summary>
+
+  ### Project 4: Football Roster Web Scrape
+
+- <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet use.    </span>
+
+
+
+</details>
 
 ## Statistical and Visualization Software
   - R

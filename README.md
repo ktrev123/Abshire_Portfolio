@@ -33,7 +33,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
   </p>
   
- [R Code](Project3_Rcode.R)
+ [R Code](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Project3_Rcode.R)
   
   <ol>
     <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>

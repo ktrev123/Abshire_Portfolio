@@ -142,7 +142,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   </ul>
 </details>
 
-## Software / Coding
+## Software/Coding Skills
   - R
   - SQL
   - Tableau

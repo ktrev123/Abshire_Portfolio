@@ -35,6 +35,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
       <li><strong>Research:</strong> Pitching-related elbow injuries are commonly observed across various levels of baseball and are often attributed to the repetitive high-velocity throws, placing stress on structures such as the ulnar collateral ligament and radiohumeral articulation (Ciccotti et al., 2017; Melugin, Leafblad, Camp, & Conte, 2018; Saper et al., 2018; Anz et al., 2010; Chalmers et al., 2017). Early trunk rotation during the pitching delivery has shown to increase torques at the shoulder and elbow. However, the specific mechanisms of energy transmitting through the kinetic chain and into the medial elbow remain unclear. Understanding these mechanisms can provide useful information into optimizing pitching techniques and minimizing the risk of elbow injuries (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
     </ul>
+ 
   </p>
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
   </p>
@@ -108,6 +109,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     </ul>
   </p>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
+ 
   </p>
 
   <p>

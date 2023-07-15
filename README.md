@@ -21,15 +21,21 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
 
+<h2>Master's Research</h2>
+
+[Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Masters_Capstone.pdf)
+
 
 <h2>Athletic Data Projects</h2>
 
 <details>
-  <summary>Project 1: KinaTrax Pitching Data - Case Study</summary>
+ <summary>Project 1: KinaTrax Pitching Data - Case Study</summary>
   <p>
-  - <strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque)<br>
-  - <strong>Research:</strong> Pitching-related elbow injuries are commonly observed across various levels of baseball and are often attributed to the repetitive high-velocity throws, placing stress on structures such as the ulnar collateral ligament and radiohumeral articulation (Ciccotti et al., 2017; Melugin, Leafblad, Camp, & Conte, 2018; Saper et al., 2018; Anz et al., 2010; Chalmers et al., 2017). Early trunk rotation during the pitching delivery has shown to increase torques at the shoulder and elbow. However, the specific mechanisms of energy transmitting through the kinetic chain and into the medial elbow remain unclear. Understanding these mechanisms can provide useful information into optimizing pitching techniques and minimizing the risk of elbow injuries (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).
-    <br><br>
+    <ul>
+      <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
+      <li><strong>Research:</strong> Pitching-related elbow injuries are commonly observed across various levels of baseball and are often attributed to the repetitive high-velocity throws, placing stress on structures such as the ulnar collateral ligament and radiohumeral articulation (Ciccotti et al., 2017; Melugin, Leafblad, Camp, & Conte, 2018; Saper et al., 2018; Anz et al., 2010; Chalmers et al., 2017). Early trunk rotation during the pitching delivery has shown to increase torques at the shoulder and elbow. However, the specific mechanisms of energy transmitting through the kinetic chain and into the medial elbow remain unclear. Understanding these mechanisms can provide useful information into optimizing pitching techniques and minimizing the risk of elbow injuries (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
+    </ul>
+  </p>
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
   </p>
   
@@ -73,9 +79,10 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <details>
   <summary>Project 2: Force Platform Position Analysis</summary>
   <p>
-  - <strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms
+    <ul>
+      <li><strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.</li>
+    </ul>
   </p>
-  
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/PositionBoxplot.R">R Code</a>
   </p>
@@ -95,9 +102,11 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <details>
   <summary>Project 3: Asymmetry Assessment and Flagging</summary>
   <p>
-    - <strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces<br> 
-    - <strong>Research:</strong> Anterior cruciate ligament (ACL) tears are devastating injuries in professional athletes, affecting approximately 4% of players each year. Deceleration was found to be the most common injury maneuver, observed in 32 (60%) athletes. Defensive backs and wide receivers sustained the most injuries, with 14 (26%) and 12 (23%) cases, respectively. Out of all injuries, 44 (83%) were first-time ACL injuries, while nine (17%) had a history of previous ACL injury (Schick et al., 2023). Biomechanical studies have demonstrated that the greatest strain is placed on the ACL, relative to other knee ligaments, at low angles of knee flexion, typically around 15° (Schick et al., 2023; Johnson et al., 2019). As the degree of knee flexion increases, the ACL is off-loaded, and greater stress is placed on other knee ligaments (Schick et al., 2023; Williams et al., 2018).
-  <br><br>
+    <ul>
+      <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces.</li>
+      <li><strong>Research:</strong> Anterior cruciate ligament (ACL) tears are devastating injuries in professional athletes, affecting approximately 4% of players each year. Deceleration was found to be the most common injury maneuver, observed in 32 (60%) athletes. Defensive backs and wide receivers sustained the most injuries, with 14 (26%) and 12 (23%) cases, respectively. Out of all injuries, 44 (83%) were first-time ACL injuries, while nine (17%) had a history of previous ACL injury (Schick et al., 2023). Biomechanical studies have demonstrated that the greatest strain is placed on the ACL, relative to other knee ligaments, at low angles of knee flexion, typically around 15° (Schick et al., 2023; Johnson et al., 2019). As the degree of knee flexion increases, the ACL is off-loaded, and greater stress is placed on other knee ligaments (Schick et al., 2023; Williams et al., 2018).</li>
+    </ul>
+  </p>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
   </p>
 
@@ -125,16 +134,17 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   </p>
   <ul>
     <li>
-      <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</span>
+      -<span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</span>
     </li>
   </ul>
 </details>
 
-## Statistical and Visualization Software
+## Software / Coding
   - R
   - SQL
   - Tableau
   - Excel/Sheets
+  - Python
   - SPSS
 
 ## Performance Technologies

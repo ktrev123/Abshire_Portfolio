@@ -154,6 +154,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Vald ForceDecks
   - Vald ForceFrame
   - Vald NordBoard
+  - Cortex Motion Capture
   - Hawkins Dynamics Force Platforms
   - EnodePro LPT
   - Catapult GPS

@@ -47,15 +47,15 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   
   <ol>
     <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/4852adc4-633f-45d1-a272-3fe9c5af0952" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/FB_desc.png" alt="image" width="600"></li>
     <li>Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/1bd2dd57-5278-4966-99c8-b40bd4b6f0bc" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/BB_desc.png" alt="image" width="600"></li>
     <li>Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>
       What pitch type (Pitch_Type) was thrown to the batter on each hit?<br>
       What was the launch angle (Launch_Angle) on each hit?<br>
       What was the result of each play (Play_Result)?<br>
       Bullet-point up to 3 primary insights you can derive from this ranking.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bb1824e8-79ba-404e-afc4-ee6b1df9032f" alt="image" width="600">
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Exit_Velo.png" alt="image" width="600">
       <ul>
         <li>11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches</li>
         <li>Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs</li>
@@ -63,8 +63,8 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       </ul>
     </li>
     <li>Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600"><br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/8b111a22-a3bf-42c0-a7b4-62a9d679b42f" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/ElbVar_desc.png" alt="image" width="600"><br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PitcherDataBoxPlot.png" alt="image" width="600"></li>
     <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
       <div style="display: flex;">
         <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/ad4622d5-d89c-4742-af9f-3bd4115adece" alt="image" width="350">

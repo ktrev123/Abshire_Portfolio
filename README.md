@@ -70,6 +70,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
    Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
 Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
 While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
+
       
    <div style="display: flex;">
         <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/42e553de-5c53-490c-8827-27de46869084" alt="image" width="350">
@@ -142,7 +143,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </p>
   <ul>
     <li>
-      -<span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</span>
+      <span style="font-size: 14px;">Objective: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</span>
     </li>
   </ul>
 </details>

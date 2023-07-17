@@ -67,12 +67,13 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PitcherDataBoxPlot.png" alt="image" width="600"></li>
     <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/ad4622d5-d89c-4742-af9f-3bd4115adece" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bcc80123-bb00-4bf8-af3f-736d4211e71a" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trunk%26LowerBodyCor.png" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/UpperBodyCor.png
+" alt="image" width="350">
       </div>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/665b4900-804e-445d-89b6-478649cd14e9" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/ec8d25f6-b16d-4e8d-bff9-fe209bcf7355" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/LeadAnkleComparison.png" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/TrunkLeanComparison.png" alt="image" width="350">
       </div>
     </li>
   </ol>
@@ -90,8 +91,8 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   </p>
   
   <div style="display:flex; justify-content:center;">
-    <img src="Portfolio/mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
-    <img src="Portfolio/RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
+    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
+    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
   </div>
   
   <ul>
@@ -114,10 +115,10 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <br>
 
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/blob/main/SL_Jump.R">R Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump.R">R Code</a>
   </p>
   
-  <img src="Portfolio/SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
   
   <ul>
     <li>Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality</li>
@@ -133,7 +134,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <details>
   <summary>Project 4: Football Roster Web Scrape</summary>
   <p>
-    <a href="Portfolio/RosterWebsiteScrape.py">Python Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>
   <ul>
     <li>
@@ -169,7 +170,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Data storytelling
   
 ## Certifications
-  - [Google Data Analytics Certificate](Portfolio/Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
+  - [Google Data Analytics Certificate](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
   - [Certified Strength and Conditioning Specialist](https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g)
   - [Certified Performance and Sport Scientist](https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo)
     

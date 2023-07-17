@@ -23,7 +23,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 
 <h2>Master's Research</h2>
 
-[Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Masters_Capstone.pdf)
+[Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Portfolio/Masters_Capstone.pdf)
 
 
 <h2>Athletic Data Projects</h2>
@@ -42,20 +42,20 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <br>
   
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Project3_Rcode.R">R Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
   </p>
   
   <ol>
     <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/4852adc4-633f-45d1-a272-3fe9c5af0952" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/4852adc4-633f-45d1-a272-3fe9c5af0952" alt="image" width="600"></li>
     <li>Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/1bd2dd57-5278-4966-99c8-b40bd4b6f0bc" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/1bd2dd57-5278-4966-99c8-b40bd4b6f0bc" alt="image" width="600"></li>
     <li>Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>
       What pitch type (Pitch_Type) was thrown to the batter on each hit?<br>
       What was the launch angle (Launch_Angle) on each hit?<br>
       What was the result of each play (Play_Result)?<br>
       Bullet-point up to 3 primary insights you can derive from this ranking.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bb1824e8-79ba-404e-afc4-ee6b1df9032f" alt="image" width="600">
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bb1824e8-79ba-404e-afc4-ee6b1df9032f" alt="image" width="600">
       <ul>
         <li>11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches</li>
         <li>Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs</li>
@@ -63,16 +63,16 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       </ul>
     </li>
     <li>Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600"><br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/8b111a22-a3bf-42c0-a7b4-62a9d679b42f" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bbb57ef3-c374-4f44-8a2c-7ef931868b65" alt="image" width="600"><br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/8b111a22-a3bf-42c0-a7b4-62a9d679b42f" alt="image" width="600"></li>
     <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ad4622d5-d89c-4742-af9f-3bd4115adece" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/bcc80123-bb00-4bf8-af3f-736d4211e71a" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/ad4622d5-d89c-4742-af9f-3bd4115adece" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/bcc80123-bb00-4bf8-af3f-736d4211e71a" alt="image" width="350">
       </div>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/665b4900-804e-445d-89b6-478649cd14e9" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ec8d25f6-b16d-4e8d-bff9-fe209bcf7355" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/665b4900-804e-445d-89b6-478649cd14e9" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/assets/138731104/ec8d25f6-b16d-4e8d-bff9-fe209bcf7355" alt="image" width="350">
       </div>
     </li>
   </ol>
@@ -90,8 +90,8 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   </p>
   
   <div style="display:flex; justify-content:center;">
-    <img src="mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
-    <img src="RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
+    <img src="Portfolio/mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
+    <img src="Portfolio/RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
   </div>
   
   <ul>
@@ -114,10 +114,10 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <br>
 
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/SL_Jump.R">R Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/Portfolio/blob/main/SL_Jump.R">R Code</a>
   </p>
   
-  <img src="SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
+  <img src="Portfolio/SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
   
   <ul>
     <li>Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality</li>
@@ -133,7 +133,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 <details>
   <summary>Project 4: Football Roster Web Scrape</summary>
   <p>
-    <a href="RosterWebsiteScrape.py">Python Code</a>
+    <a href="Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>
   <ul>
     <li>
@@ -169,7 +169,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   - Data storytelling
   
 ## Certifications
-  - [Google Data Analytics Certificate](Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
+  - [Google Data Analytics Certificate](Portfolio/Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
   - [Certified Strength and Conditioning Specialist](https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g)
   - [Certified Performance and Sport Scientist](https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo)
     

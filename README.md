@@ -1,7 +1,7 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-TEST2 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+TEST777 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -55,7 +55,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       What was the launch angle (Launch_Angle) on each hit?<br>
       What was the result of each play (Play_Result)?<br>
       Bullet-point up to 3 primary insights you can derive from this ranking.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Exit_Velo.png" alt="image" width="600">
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/0ce92d3e-6075-4006-bd53-359594c04aa8" alt="image" width="600">
       <ul>
         <li>11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches</li>
         <li>Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs</li>
@@ -63,22 +63,21 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       </ul>
     </li>
     <li>Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/ElbVar_desc.png" alt="image" width="600"><br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PitcherDataBoxPlot.png" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/444ae7f0-710f-456b-8cc5-a9af778099d9" alt="image" width="600"><br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/21cf649e-d896-421f-8d0c-2165bc202e06" alt="image" width="600"></li>  
     <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trunk%26LowerBodyCor.png" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/UpperBodyCor.png
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/42e553de-5c53-490c-8827-27de46869084" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/d5e3694b-f8d4-4a30-b5c7-b50535316605
 " alt="image" width="350">
       </div>
       <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/LeadAnkleComparison.png" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/TrunkLeanComparison.png" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/cb67f3d5-9e4c-4e3e-9f2e-9a805bf6fcf5" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/381dc685-8136-4f46-9b6e-f4ff245aa180" alt="image" width="350">
       </div>
     </li>
   </ol>
 </details>
-
 <details>
   <summary>Project 2: Force Platform Position Analysis</summary>
   <p>
@@ -89,10 +88,10 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PositionBoxplot.R">R Code</a>
   </p>
-  
+ 
   <div style="display:flex; justify-content:center;">
-    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/mRSI_Position_Boxplot.png" alt="mRSI by Position" style="width:400px; margin-right:10px;">
-    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RelativePeakForce_Position_Boxplot.png" alt="Relative Peak Force by Position" style="width:400px;">
+    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/b712e95d-55d7-4f49-ab35-d682fd8e5376" alt="mRSI by Position" style="width:400px; margin-right:10px;">
+    <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ee483c44-aa63-4f5d-861a-7246e16c18f5" alt="Relative Peak Force by Position" style="width:400px;">
   </div>
   
   <ul>
@@ -114,11 +113,12 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
  
 <br>
 
+
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump.R">R Code</a>
   </p>
   
-  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump_BarChart.png" alt="Single Leg Jump Asymmetries" style="width:400px;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/350cc536-0b0c-45aa-8945-abc935628d40" alt="Single Leg Jump Asymmetries" style="width:400px;">
   
   <ul>
     <li>Employed rigorous data cleaning techniques on a dataset comprising over 1000 data points, ensuring data integrity and quality</li>

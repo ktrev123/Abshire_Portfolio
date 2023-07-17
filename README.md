@@ -1,7 +1,7 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-TEST777 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+TEST1000 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -66,10 +66,14 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
       <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/444ae7f0-710f-456b-8cc5-a9af778099d9" alt="image" width="600"><br>
       <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/21cf649e-d896-421f-8d0c-2165bc202e06" alt="image" width="600"></li>  
     <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
-      <div style="display: flex;">
+
+   Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
+Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
+While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
+      
+   <div style="display: flex;">
         <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/42e553de-5c53-490c-8827-27de46869084" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/d5e3694b-f8d4-4a30-b5c7-b50535316605
-" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/d5e3694b-f8d4-4a30-b5c7-b50535316605" alt="image" width="350">
       </div>
       <div style="display: flex;">
         <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/cb67f3d5-9e4c-4e3e-9f2e-9a805bf6fcf5" alt="image" width="350">

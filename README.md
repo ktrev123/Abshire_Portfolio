@@ -86,7 +86,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     </ul>
   </p>
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/PositionBoxplot.R">R Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PositionBoxplot.R">R Code</a>
   </p>
   
   <div style="display:flex; justify-content:center;">

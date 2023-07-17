@@ -1,7 +1,7 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-TEST My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+TEST2 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 As an ex-collegiate athlete, I understand the importance of data-driven decision-making in improving athletic performance. My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -40,14 +40,14 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
 
 <br>
-  
+
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
   </p>
   
   <ol>
     <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/FB_desc.png" alt="image" width="600"></li>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/3ef3e150-6604-4d16-ae25-025476dd1574" alt="image" width="600"></li>
     <li>Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.<br>
       <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/BB_desc.png" alt="image" width="600"></li>
     <li>Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>

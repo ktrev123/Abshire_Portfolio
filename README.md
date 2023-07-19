@@ -172,8 +172,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>
   <ul>
-      <li><strong>Objective:</strong>: Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</span>
-    </li>
+      <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use
   </ul>
 </details>
 

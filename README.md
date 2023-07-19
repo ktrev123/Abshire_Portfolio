@@ -132,12 +132,35 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
+<details>
+  <summary>Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization </summary>
+  <p>
+    <ul>
+      <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
+    </ul>
+  </p>
+   
+<br>
+
+
+  <p>
+    <a href="">Python Code</a>
+  </p>
+  
+  <img src="" alt="VJ_rCPF_BW" style="width:400px;">
+  
+  <ul>
+    <li>Filtered a significant dataset (2500 data points) to find instances where athletes possessed combine jump test values,force plateform CMJ values, and a bodyweight value.</li>
+    <li>Visualized the relevance of the Relative Concentric Peak Force metric within a Division 1 football program. </li>
+  </ul>
+</details>
+
 
 
 <h2>General Coding Projects</h2>
 
 <details>
-  <summary>Project 4: Football Roster Web Scrape</summary>
+  <summary>Project 5: Football Roster Web Scrape</summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>

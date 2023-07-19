@@ -145,8 +145,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </li>
     </ul>
   </p>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
-     </ul>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?
   </p>
    
 <br>

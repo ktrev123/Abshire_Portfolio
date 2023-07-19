@@ -1,7 +1,7 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+TESTMy name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -137,21 +137,31 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   <p>
     <ul>
       <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
+  <li>
+    <strong>Research:</strong> In a study examining the jumping and sprinting characteristics of a track and field team, researchers found that the force variable CMJ peak force relative to body weight was a significant predictor of sprint performance in terms of maximal running velocity over 10 meters and the time taken to complete 60 meters. Additionally, the maximal running velocity over 10 meters was also predicted by CMJ height. However, jump heights from non-stretch-shortening squat jumps and drop jumps did not predict sprint performances.
+    Furthermore, previous research has shown that sprint acceleration over the first 10 meters from the starting block is correlated with CMJ average power, CMJ peak power, CMJ average force, and CMJ peak force in elite sprinters. This suggests that these force variables are relevant to sprint performance, particularly in terms of velocity components.
+    The finding of this paper also indicate that specific adaptations related to velocity and increases in muscle electrical activity occur during CMJ exercises. This supports the suggestion that high-velocity muscle activation capabilities and the ability to perform activities at high velocities are important for sprinting at high velocities, often occurring for some positions in American Football.
+    Studies have suggested that CMJ peak force and CMJ height are valuable factors in predicting sprint performances, especially in terms of velocity-related components. The ability to generate high forces and perform explosive movements at high velocities appears to be crucial for sprinting at high velocities.
+</li>
     </ul>
+  </p>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
+     </ul>
   </p>
    
 <br>
 
 
   <p>
-    <a href="">Python Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_Unamed.py">Python Code</a>
   </p>
   
-  <img src="" alt="VJ_rCPF_BW" style="width:400px;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_1.png" alt="VJ_rCPF_BW" style="width:400px;">
   
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_2.png" alt="VJ_rCPF_BW2" style="width:400px;">
   <ul>
     <li>Filtered a significant dataset (2500 data points) to find instances where athletes possessed combine jump test values,force plateform CMJ values, and a bodyweight value.</li>
-    <li>Visualized the relevance of the Relative Concentric Peak Force metric within a Division 1 football program. </li>
+    <li>Created an interactive scatter plot to visualize the relevance of the Relative Concentric Peak Force metric within a Division 1 football program. </li>
   </ul>
 </details>
 

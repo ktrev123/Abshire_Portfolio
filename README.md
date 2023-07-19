@@ -1,7 +1,7 @@
 
 ## Trevor Dean Abshire, M.S., CSCS, CPSS
 
-TESTMy name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
+TEST222My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
 
 My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
@@ -151,14 +151,14 @@ While individual pitching mechanics are infinitely unique in nature, these findi
    
 <br>
 
-
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_Unamed.py">Python Code</a>
   </p>
+
   
-  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_1.png" alt="VJ_rCPF_BW" style="width:400px;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/9cf54465-9066-4a0f-ba9f-80c201a22a38" alt="VJ_rCPF_BW" style="width:400px;">
   
-  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_2.png" alt="VJ_rCPF_BW2" style="width:400px;">
+  <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/475f3448-5578-438d-b76f-1be64854febc" alt="VJ_rCPF_BW2" style="width:400px;">
   <ul>
     <li>Filtered a significant dataset (2500 data points) to find instances where athletes possessed combine jump test values,force plateform CMJ values, and a bodyweight value.</li>
     <li>Created an interactive scatter plot to visualize the relevance of the Relative Concentric Peak Force metric within a Division 1 football program. </li>

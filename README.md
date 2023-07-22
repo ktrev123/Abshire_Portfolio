@@ -73,9 +73,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ol>
 </details>
 
-  ### Project 2: Force Platform Position Analysis 🏈
- 
- <p>
+### Project 2: Force Platform Position Analysis 🏈
+  <p>
     <ul>
       <li><strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.</li>
     </ul>
@@ -98,7 +97,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
-  ### Project 3: Asymmetry Assessment and Flagging 🏈
+### Project 3: Asymmetry Assessment and Flagging 🏈
   <p>
     <ul>
       <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces.</li>
@@ -123,8 +122,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
-
-  ### Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈
+### Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈
   <p>
     <ul>
       <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
@@ -159,8 +157,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
 <h2>General Coding Projects</h2>
 
-
- ### Project 5: Football Roster Web Scrape 🌐
+### Project 5: Football Roster Web Scrape 🌐
  <p>
     <ul>
       <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use.</li>

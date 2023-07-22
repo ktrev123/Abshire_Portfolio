@@ -26,7 +26,7 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
 [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Portfolio/Masters_Capstone.pdf)
 
 
-<h2>Athletic Data Projects</h2>
+<h2>Athletic Data Projects (Clickable Dropdowns)</h2>
 
 <details>
  <summary>Project 1: KinaTrax Pitching Data - Case Study</summary>
@@ -164,7 +164,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
 
 
-<h2>General Coding Projects</h2>
+<h2>General Coding Projects (Clickable Dropdowns)</h2>
 
 <details>
   <summary>Project 5: Football Roster Web Scrape</summary>

@@ -4,7 +4,7 @@
 </div>
 
 
-TEST
+TEST2
 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
@@ -18,6 +18,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 <h2>Athletic Data Projects</h2>
 
 ### Project 1: KinaTrax Pitching Biomechanics Data - Case Study ⚾
+
   <p>
     <ul>
       <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
@@ -74,6 +75,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </details>
 
 ### Project 2: Force Platform Position Analysis 🏈
+
   <p>
     <ul>
       <li><strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.</li>
@@ -98,6 +100,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </details>
 
 ### Project 3: Asymmetry Assessment and Flagging 🏈
+
   <p>
     <ul>
       <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces.</li>
@@ -123,6 +126,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </details>
 
 ### Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈
+
   <p>
     <ul>
       <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
@@ -158,6 +162,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 <h2>General Coding Projects</h2>
 
 ### Project 5: Football Roster Web Scrape 🌐
+
  <p>
     <ul>
       <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use.</li>

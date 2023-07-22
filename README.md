@@ -29,7 +29,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 
 <details>
-<summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
   </p>
@@ -81,7 +81,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     </ul>
   </p>
  <details>
-  <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PositionBoxplot.R">R Code</a>
   </p>
@@ -108,8 +108,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
  
 <br>
-<details><summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
-
+<details>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump.R">R Code</a>
   </p>
@@ -139,7 +139,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
 <br>
 
-<details> <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
+<details>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_Unamed.py">Python Code </a>
   </p>
@@ -165,7 +166,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
       <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use.</li>
     </ul>
  
- <details> <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
+ <details>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>

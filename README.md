@@ -176,7 +176,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </details>
 
 
-## Software/Coding Skills
+<h3>Software/Coding Skills</h3>
   - R
   - SQL
   - Tableau
@@ -184,7 +184,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   - Python
   - SPSS
 
-## Performance Technologies
+<h3>Performance Technologies</h3>
   - Vald ForceDecks
   - Vald ForceFrame
   - Vald NordBoard
@@ -195,7 +195,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   - Kinexon GPS
   - 1080 Sprint
   
-## Skills
+<h3>Skills</h3>
   - Data cleaning and preprocessing
   - Exploratory data analysis
   - Data visualization

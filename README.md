@@ -1,9 +1,8 @@
 <div align="center">
-
-# Trevor Dean Abshire, M.S., CSCS, CPSS
-## 📊 Sport Data Analyst Portfolio 📊
-
+  <h1>Trevor Dean Abshire, M.S., CSCS, CPSS</h1>
+  <h2>📊 Sport Data Analyst Portfolio 📊</h2>
 </div>
+
 
 
 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!

@@ -1,35 +1,24 @@
+<div align="center">
 
-## Trevor Dean Abshire, M.S., CSCS, CPSS
+# Trevor Dean Abshire, M.S., CSCS, CPSS
+## 📊 Sport Data Analyst Portfolio 📊
 
-My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. With a strong passion for leveraging data to drive performance and optimize training strategies, I strive to blend my background in athletics with my analytical skills to deliver impactful insights.
-
-My experience on the field, in the weight room, and in the lab have ignited a keen interest in exploring the vast potential of data analytics within the sports industry. Combining my expertise in strength and conditioning with my proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
-
-During my comprehensive biomechanics experience, I had the opportunity to delve into various domains, including pitching, powerlifting, gait analysis, jumping, and isolated joint kinematics. I have hands on experience with calibrating and capturing kinematic data from motion capture systems. I also have collected, cleaned, and analyzed various performance data to contribute to research and my own projects and professional endeavors. I was even a subject in a competitive deadlift case study!
+</div>
 
 
-[![Video Thumbnail](https://img.youtube.com/vi/K75-x8oRwc8/0.jpg)](https://youtu.be/K75-x8oRwc8)
-
-[YouTube Link](https://youtu.be/K75-x8oRwc8)
-
-
-
-Throughout my career, I have successfully applied data analytics techniques to analyze and interpret complex datasets, enabling evidence-based decision-making. I possess a strong foundation in various analytical tools and programming languages, including R, SQL, Excel/Sheets, and Tableau, allowing me to extract actionable insights from diverse datasets and communicate them effectively to stakeholders. I am currently taking a Python course from the University of Michigan which I am enjoying very much. 
-
+My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
-Feel free to explore my portfolio and reach out for potential collaboration, discussion, or networking opportunities.
-
 <h2>Master's Research</h2>
 
-[Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Portfolio/Masters_Capstone.pdf)
+* [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Portfolio/Masters_Capstone.pdf)
+* [Presentation](https://docs.google.com/presentation/d/10ydEif7umHqHEWsaBuOOOHQtksEO0aB8/edit?usp=sharing&ouid=115347872039751181548&rtpof=true&sd=true)
 
 
-<h2>Athletic Data Projects (Clickable Dropdowns)</h2>
+<h2>Athletic Data Projects</h2>
 
-<details>
- <summary>Project 1: KinaTrax Pitching Data - Case Study</summary>
+### Project 1: KinaTrax Pitching Biomechanics Data - Case Study ⚾
   <p>
     <ul>
       <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
@@ -40,7 +29,10 @@ Feel free to explore my portfolio and reach out for potential collaboration, dis
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
 
 <br>
+<br>
 
+<details>
+<summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
   </p>
@@ -83,13 +75,16 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     </li>
   </ol>
 </details>
-<details>
-  <summary>Project 2: Force Platform Position Analysis</summary>
-  <p>
+
+  ### Project 2: Force Platform Position Analysis 🏈
+ 
+ <p>
     <ul>
       <li><strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.</li>
     </ul>
   </p>
+ <details>
+  <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/PositionBoxplot.R">R Code</a>
   </p>
@@ -106,8 +101,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
-<details>
-  <summary>Project 3: Asymmetry Assessment and Flagging</summary>
+  ### Project 3: Asymmetry Assessment and Flagging 🏈
   <p>
     <ul>
       <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces.</li>
@@ -117,7 +111,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
  
 <br>
-
+<details><summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
 
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/SL_Jump.R">R Code</a>
@@ -132,8 +126,8 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
-<details>
-  <summary>Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization </summary>
+
+  ### Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈
   <p>
     <ul>
       <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
@@ -148,6 +142,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
     <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
 <br>
 
+<details> <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project5_Unamed.py">Python Code </a>
   </p>
@@ -164,16 +159,19 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
 
 
-<h2>General Coding Projects (Clickable Dropdowns)</h2>
+<h2>General Coding Projects</h2>
 
-<details>
-  <summary>Project 5: Football Roster Web Scrape</summary>
+
+ ### Project 5: Football Roster Web Scrape 🌐
+ <p>
+    <ul>
+      <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use.</li>
+    </ul>
+ 
+ <details> <summary style="cursor: pointer; background-color: #f1f1f1; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand) </em></strong></summary>
   <p>
     <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/RosterWebsiteScrape.py">Python Code</a>
   </p>
-  <ul>
-    <li><strong>Objective:</strong> Scrape data from a roster website to create a standardized list of Names, Academic Years, Positions, and Roster Images for spreadsheet and dashboard use</li>
-  </ul>
 </details>
 
 

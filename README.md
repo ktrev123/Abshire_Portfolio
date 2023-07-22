@@ -4,7 +4,6 @@
 </div>
 
 
-XXXX
 My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
@@ -176,38 +175,47 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 </details>
 
 
-<h3>Software/Coding Skills</h3>
-  - R
-  - SQL
-  - Tableau
-  - Excel/Sheets
-  - Python
-  - SPSS
+<h2>Software/Coding Languages</h2>
+<ul>
+  <li>R</li>
+  <li>SQL</li>
+  <li>Tableau</li>
+  <li>Excel/Sheets</li>
+  <li>Python</li>
+  <li>SPSS</li>
+</ul>
 
-<h3>Performance Technologies</h3>
-  - Vald ForceDecks
-  - Vald ForceFrame
-  - Vald NordBoard
-  - Cortex Motion Capture
-  - Hawkins Dynamics Force Platforms
-  - EnodePro LPT
-  - Catapult GPS
-  - Kinexon GPS
-  - 1080 Sprint
-  
-<h3>Skills</h3>
-  - Data cleaning and preprocessing
-  - Exploratory data analysis
-  - Data visualization
-  - Statistical analysis and modeling
-  - Data storytelling
-  
-## Certifications
-  - [Google Data Analytics Certificate](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trevor_Abshire_Google_Data_Analytics_Certificate.pdf)
-  - [Certified Strength and Conditioning Specialist](https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g)
-  - [Certified Performance and Sport Scientist](https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo)
-    
+<h2>Performance Technologies</h2>
+<ul>
+  <li>Vald ForceDecks</li>
+  <li>Vald ForceFrame</li>
+  <li>Vald NordBoard</li>
+  <li>Cortex Motion Capture</li>
+  <li>Hawkins Dynamics Force Platforms</li>
+  <li>EnodePro LPT</li>
+  <li>Catapult GPS</li>
+  <li>Kinexon GPS</li>
+  <li>1080 Sprint</li>
+</ul>
 
-## Contact Information
-- [tdabshire@ucdavis.edu](tdabshire@ucdavis.edu)
-- [Visit my LinkedIn profile](https://www.linkedin.com/in/trevorabshire/)
+<h2>Skills</h2>
+<ul>
+  <li>Data cleaning and preprocessing</li>
+  <li>Exploratory data analysis</li>
+  <li>Data visualization</li>
+  <li>Statistical analysis and modeling</li>
+  <li>Data storytelling</li>
+</ul>
+
+<h2>Certifications</h2>
+<ul>
+  <li><a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trevor_Abshire_Google_Data_Analytics_Certificate.pdf">Google Data Analytics Certificate</a></li>
+  <li><a href="https://certificates.nsca.com/1f2cf9a0-1e9b-4211-beef-dd1277cbf97e#gs.2a323g">Certified Strength and Conditioning Specialist</a></li>
+  <li><a href="https://certificates.nsca.com/cefcc200-5bd9-4352-bad9-fb8e8677ef4e#gs.2a32yo">Certified Performance and Sport Scientist</a></li>
+</ul>
+
+<h2>Contact Information</h2>
+<ul>
+  <li><a href="mailto:tdabshire@ucdavis.edu">tdabshire@ucdavis.edu</a></li>
+  <li><a href="https://www.linkedin.com/in/trevorabshire/">Visit my LinkedIn profile</a></li>
+</ul>

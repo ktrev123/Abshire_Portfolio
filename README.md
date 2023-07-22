@@ -4,7 +4,7 @@
 </div>
 
 
-My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
+YESTMy name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently serving as Assistant Director of Sport Performance and Lead Data Analyst at the University of California Davis. Combining my domain expertise in strength and conditioning, biomechanics, and proficiency in data analytics, I aim to optimize training protocols, identify performance patterns, and provide valuable insights to athletes and coaches to increase longevity and win championships!
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
@@ -78,8 +78,11 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   <p>
     <ul>
       <li><strong>Objective:</strong> Analyze the performance and force production characteristics of starters from each position group using Vald ForceDecks force platforms.</li>
+      <li><strong>Practical Application:</strong> Understanding performance qualities like mRSI and Relative Peak Concentric Force across different position groups provides valuable insights into the force production characteristics of starters from these position groups, enabling coaches to optimize position-specific training and make data-driven decisions for individualized athlete monitoring and performance enhancement</li>
     </ul>
   </p>
+
+
  <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
@@ -102,13 +105,14 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
   <p>
     <ul>
-      <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces.</li>
+      <li><strong>Objective:</strong> Develop a comprehensive assessment framework to evaluate asymmetries in the single leg jump test, considering peak landing force, and flag individuals at higher risk of injury, while providing strength and conditioning coaches a named list recommending potential exercise interventions for any athlete with a greater than 15% asymmetry in landing forces </li>
+      <li><strong>Practical Application:</strong> Identifying athletes with significant peak force asymmetries and implementing quality-specific plyometric/strength exercises (drop jumps, single leg jumps, etc.) </li>
       <li><strong>Research:</strong> Anterior cruciate ligament (ACL) tears are devastating injuries in professional athletes, affecting approximately 4% of players each year. Deceleration was found to be the most common injury maneuver, observed in 32 (60%) athletes. Defensive backs and wide receivers sustained the most injuries, with 14 (26%) and 12 (23%) cases, respectively. Out of all injuries, 44 (83%) were first-time ACL injuries, while nine (17%) had a history of previous ACL injury (Schick et al., 2023). Biomechanical studies have demonstrated that the greatest strain is placed on the ACL, relative to other knee ligaments, at low angles of knee flexion, typically around 15° (Schick et al., 2023; Johnson et al., 2019). As the degree of knee flexion increases, the ACL is off-loaded, and greater stress is placed on other knee ligaments (Schick et al., 2023; Williams et al., 2018).</li>
     </ul>
   </p>
     <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
- 
-<br>
+
+    
 <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
@@ -129,7 +133,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   <p>
     <ul>
       <li><strong>Objective:</strong> Visualize the comparison between vertical jump combine data, force platform concentric peak force data, and bodyweights.</li>
-  <li>
+      <li><strong>Practical Application:</strong> Identify athletes with high relative force producing and plyometric capabilites while getting a comprehensive understanding that rCPF might not be a useful metric to assess across position groups</li>
     <strong>Research:</strong> In a study examining the jumping and sprinting characteristics of a track and field team, researchers found that the force variable CMJ peak force relative to body weight was a significant predictor of sprint performance in terms of maximal running velocity over 10 meters and the time taken to complete 60 meters. Additionally, the maximal running velocity over 10 meters was also predicted by CMJ height. However, jump heights from non-stretch-shortening squat jumps and drop jumps did not predict sprint performances.
     Furthermore, previous research has shown that sprint acceleration over the first 10 meters from the starting block is correlated with CMJ average power, CMJ peak power, CMJ average force, and CMJ peak force in elite sprinters. This suggests that these force variables are relevant to sprint performance, particularly in terms of velocity components.
     The finding of this paper also indicate that specific adaptations related to velocity and increases in muscle electrical activity occur during CMJ exercises. This supports the suggestion that high-velocity muscle activation capabilities and the ability to perform activities at high velocities are important for sprinting at high velocities, often occurring for some positions in American Football.
@@ -139,6 +143,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </p>
     <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
 <br>
+
 
 <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>

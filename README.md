@@ -21,7 +21,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
   <p>
     <ul>
       <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
-      <li><strong>Research:</strong>Pitching-related elbow injuries in baseball are common and often linked to repetitive high-velocity throws, which stress structures like the ulnar collateral ligament and radiohumeral articulation. Trunk rotation during the pitching delivery can increase torques at the shoulder and elbow, but the specific energy transmission mechanisms into the medial elbow need further investigation for optimizing pitching techniques and reducing injury risks. (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
+      <li><strong>Research:</strong> Pitching-related elbow injuries in baseball are common and often linked to repetitive high-velocity throws, which stress structures like the ulnar collateral ligament and radiohumeral articulation. Trunk rotation during the pitching delivery can increase torques at the shoulder and elbow, but the specific energy transmission mechanisms into the medial elbow need further investigation for optimizing pitching techniques and reducing injury risks. (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
     </ul> 
 <p>
     <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>

@@ -179,10 +179,10 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 <h2>Software/Coding Languages</h2>
 <ul>
   <li>R</li>
-  <li>SQL</li>
-  <li>Tableau</li>
-  <li>Excel/Sheets</li>
   <li>Python</li>
+  <li>SQL</li>
+  <li>Excel/Sheets</li>
+  <li>Tableau</li>
   <li>SPSS</li>
 </ul>
 

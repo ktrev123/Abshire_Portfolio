@@ -157,11 +157,33 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
+<h3>Project 5: Drafted Pitcher Career Outlook Comprehensive Assessment ⚾ </h3>
+<p>
+  <ul>
+    <li><strong>Objective:</strong> Develop a comprehensive biomechanical and performance assessment for a recently drafted MLB pitcher to aid in performance enhancement and career longevity.</li>
+    <li><strong>Practical Application:</strong> The comprehensive biomechanical and performance assessment developed for recently drafted MLB pitchers aims to create tailored training programs, early talent identification, injury prevention strategies, performance optimization, data-driven decision-making, career longevity enhancement, and valuable sports science research opportunities, benefiting both athletes and sports organizations.</li>
+  </ul>
+</p>
 
+<details>
+  <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
+  <p>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Angular_Velocity_Plot.py">Python Code 1 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Kinematic_Sequence_Plot_UPDATED.py">Python Code 2 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trunk_Angles_Plot.py">Python Code 3 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Drafted%20Pitcher%20Career%20Outlook%20Comprehensive%20Assessment.pdf">Asessment PDF</a>
+  </p>
+
+  <ul>
+    <li>Created Kinematic Sequence Visualizations: Developed detailed visualizations of the kinematic sequence using data from multiple pitches captured by the Hawk-Eye motion capture system, providing valuable insights into the pitchers' biomechanics.</li>
+    <li>Data Cleaning and Standardization: Successfully cleaned, standardized, and processed a vast dataset comprising over 10,000 data points from pitching motion capture, ensuring data accuracy and consistency for meaningful analysis.</li>
+   <li>Equipment and Procedure Recommendations: Advised on the selection of appropriate equipment and established best practices and procedures to obtain high-quality, actionable data, enhancing the overall reliability of the assessment.</li>
+  </ul>
+</details>
 
 <h2>General Coding Projects</h2>
 
-<h3> Project 5: Football Roster Web Scrape 🌐 </h3>
+<h3> Project 6: Football Roster Web Scrape 🌐 </h3>
 
  <p>
     <ul>

@@ -95,7 +95,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
   </ul>
 </details>
 
-<h3>Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈</h3>
+<h3>Project 4 Test: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈</h3>
 
   <p>
     <ul>
@@ -104,9 +104,8 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
       <li><strong>Research:</strong> Researchers found that relative CMJ peak force significantly predicted sprint performance in a track and field team, specifically in terms of maximal running velocity over 10 meters and the time taken to complete 60 meters. Additionally, CMJ height was also predictive of maximal running velocity over 10 meters, highlighting the importance of force variables related to high-velocity muscle activation for sprinting at high speeds</li>
     </ul>
   </p>
-    <a href="https://pubmed.ncbi.nlm.nih.gov/22692108/">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
+   <a href="https://pubmed.ncbi.nlm.nih.gov/22692108">Markström, Jonas L.1; Olsson, Carl-Johan2. Countermovement Jump Peak Force Relative to Body Weight and Jump Height as Predictors for Sprint Running Performances: (In)homogeneity of Track and Field Athletes?</a>
 <br>
-
 
 <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>

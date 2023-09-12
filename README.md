@@ -77,7 +77,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
       <li><strong>Research:</strong> ACL tears are significant injuries in professional athletes, affecting about 4% annually, with deceleration being the most common injury maneuver observed in approximately 60% of cases. Defensive backs and wide receivers are the most affected, and biomechanical studies indicate that the ACL experiences the highest strain at low knee flexion angles, around 15°, while other knee ligaments bear greater stress as knee flexion increases. (Schick et al., 2023; Williams et al., 2018).</li>
     </ul>
   </p>
-    <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728/">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
+   <a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9970728">The Mechanism of Anterior Cruciate Ligament Injuries in the National Football League: A Systematic Video Review</a>
 
     
 <details>
@@ -95,7 +95,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
   </ul>
 </details>
 
-<h3>Project 4 Test: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈</h3>
+<h3>Project 4: Vertical Jump, Relative Concentric Peak Force, Bodyweight Visualization 🏈</h3>
 
   <p>
     <ul>

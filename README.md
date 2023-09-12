@@ -16,61 +16,28 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 <h2>Athletic Data Projects</h2>
 
-<h3>Project 1: KinaTrax Pitching Biomechanics Data - Case Study ⚾</h3>
-
-  <p>
-    <ul>
-      <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
-      <li><strong>Research:</strong> Pitching-related elbow injuries in baseball are common and often linked to repetitive high-velocity throws, which stress structures like the ulnar collateral ligament and radiohumeral articulation. Trunk rotation during the pitching delivery can increase torques at the shoulder and elbow, but the specific energy transmission mechanisms into the medial elbow need further investigation for optimizing pitching techniques and reducing injury risks. (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
-    </ul> 
+<h3>Project 1: Drafted Pitcher Career Outlook Comprehensive Assessment ⚾ </h3>
 <p>
-    <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
+  <ul>
+    <li><strong>Objective:</strong> Develop a comprehensive biomechanical and performance assessment for a recently drafted MLB pitcher to aid in performance enhancement and career longevity.</li>
+    <li><strong>Practical Application:</strong> The comprehensive biomechanical and performance assessment developed for recently drafted MLB pitchers aims to create tailored training programs, early talent identification, injury prevention strategies, performance optimization, data-driven decision-making, career longevity enhancement, and valuable sports science research opportunities, benefiting both athletes and sports organizations.</li>
+  </ul>
 </p>
-
 
 <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Angular_Velocity_Plot.py">Python Code 1 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Kinematic_Sequence_Plot_UPDATED.py">Python Code 2 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trunk_Angles_Plot.py">Python Code 3 </a><br>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Drafted%20Pitcher%20Career%20Outlook%20Comprehensive%20Assessment.pdf">Asessment PDF</a>
   </p>
-  
-  <ol>
-    <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/3ef3e150-6604-4d16-ae25-025476dd1574" alt="image" width="600"></li>
-   <li>Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ad9f4d42-6fc4-4ab3-adee-baec91b98338" alt="image" width="600"></li>
-    <li>Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>
-      What pitch type (Pitch_Type) was thrown to the batter on each hit?<br>
-      What was the launch angle (Launch_Angle) on each hit?<br>
-      What was the result of each play (Play_Result)?<br>
-      Bullet-point up to 3 primary insights you can derive from this ranking.<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/0ce92d3e-6075-4006-bd53-359594c04aa8" alt="image" width="600">
-      <ul>
-        <li>11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches</li>
-        <li>Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs</li>
-        <li>If a hitter can achieve high exit velocities (>100mph), coaches might consider implementing practice drills where hitters are encouraged to attack the ball within 10 to 26 degrees of launch angle</li>
-      </ul>
-    </li>
-    <li>Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)<br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/444ae7f0-710f-456b-8cc5-a9af778099d9" alt="image" width="600"><br>
-      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/21cf649e-d896-421f-8d0c-2165bc202e06" alt="image" width="600"></li>  
-    <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
 
-   Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
-Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
-While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
-
-      
-   <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/42e553de-5c53-490c-8827-27de46869084" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/d5e3694b-f8d4-4a30-b5c7-b50535316605" alt="image" width="350">
-      </div>
-      <div style="display: flex;">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/cb67f3d5-9e4c-4e3e-9f2e-9a805bf6fcf5" alt="image" width="350">
-        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/381dc685-8136-4f46-9b6e-f4ff245aa180" alt="image" width="350">
-      </div>
-    </li>
-  </ol>
+  <ul>
+    <li>Created Kinematic Sequence Visualizations: Developed detailed visualizations of the kinematic sequence using data from multiple pitches captured by the Hawk-Eye motion capture system, providing valuable insights into the pitchers' biomechanics.</li>
+    <li>Data Cleaning and Standardization: Successfully cleaned, standardized, and processed a vast dataset comprising over 10,000 data points from pitching motion capture, ensuring data accuracy and consistency for meaningful analysis.</li>
+   <li>Equipment and Procedure Recommendations: Advised on the selection of appropriate equipment and established best practices and procedures to obtain high-quality, actionable data, enhancing the overall reliability of the assessment.</li>
+  </ul>
 </details>
 
 <h3>Project 2: Force Platform Position Analysis 🏈</h3>
@@ -157,28 +124,61 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   </ul>
 </details>
 
-<h3>Project 5: Drafted Pitcher Career Outlook Comprehensive Assessment ⚾ </h3>
+<h3>Project 5: KinaTrax Pitching Biomechanics Data - Case Study ⚾</h3>
+
+  <p>
+    <ul>
+      <li><strong>Objective:</strong> Analyze and interpret biomechanical and ball pitching data for performance and injury preventative purposes (Averages, Launch Angles, Spin Rates, Elbow Varus Torque).</li>
+      <li><strong>Research:</strong> Pitching-related elbow injuries in baseball are common and often linked to repetitive high-velocity throws, which stress structures like the ulnar collateral ligament and radiohumeral articulation. Trunk rotation during the pitching delivery can increase torques at the shoulder and elbow, but the specific energy transmission mechanisms into the medial elbow need further investigation for optimizing pitching techniques and reducing injury risks. (Aguinaldo, Buttermore, & Chambers, 2007; Oyama et al., 2014; Aguinaldo & Chambers, 2009; Werner et al., 2002).</li>
+    </ul> 
 <p>
-  <ul>
-    <li><strong>Objective:</strong> Develop a comprehensive biomechanical and performance assessment for a recently drafted MLB pitcher to aid in performance enhancement and career longevity.</li>
-    <li><strong>Practical Application:</strong> The comprehensive biomechanical and performance assessment developed for recently drafted MLB pitchers aims to create tailored training programs, early talent identification, injury prevention strategies, performance optimization, data-driven decision-making, career longevity enhancement, and valuable sports science research opportunities, benefiting both athletes and sports organizations.</li>
-  </ul>
+    <a href="https://www.tandfonline.com/doi/full/10.1080/14763141.2019.1696881">Induced power analysis of sequential body motion and elbow valgus load during baseball pitching, Sports Biomechanics</a>
 </p>
+
 
 <details>
   <summary style="cursor: pointer; padding: 5px; border-radius: 5px;"><strong><em>Code & Process (Click to expand)</em></strong></summary>
   <p>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Angular_Velocity_Plot.py">Python Code 1 </a><br>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Kinematic_Sequence_Plot_UPDATED.py">Python Code 2 </a><br>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Trunk_Angles_Plot.py">Python Code 3 </a><br>
-    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Drafted%20Pitcher%20Career%20Outlook%20Comprehensive%20Assessment.pdf">Asessment PDF</a>
+    <a href="https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Project3_Rcode.R">R Code</a>
   </p>
+  
+  <ol>
+    <li>Find the Fastball (Pitch_Type) velocity (Pitch_Velocity) mean and standard deviation for each pitcher that threw in the game on 8/2/2022 for Team 2.<br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/3ef3e150-6604-4d16-ae25-025476dd1574" alt="image" width="600"></li>
+   <li>Find the Breaking Ball (Pitch_Type; Group Slider & Curveball together) spin rate (Spin_Rate) mean and standard deviation for each pitcher that threw in the game on 8/3/2022 for Team 1.<br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/ad9f4d42-6fc4-4ab3-adee-baec91b98338" alt="image" width="600"></li>
+    <li>Rank the Pitchers (id_pitcher) who allowed the 15 hardest batted ball exit velocities (Exit_Velocity) above 10-degrees of launch (Launch_Angle) in any game.<br>
+      What pitch type (Pitch_Type) was thrown to the batter on each hit?<br>
+      What was the launch angle (Launch_Angle) on each hit?<br>
+      What was the result of each play (Play_Result)?<br>
+      Bullet-point up to 3 primary insights you can derive from this ranking.<br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/0ce92d3e-6075-4006-bd53-359594c04aa8" alt="image" width="600">
+      <ul>
+        <li>11 out of 15 (73%) of the hardest hit pitches were fastballs, suggesting that weaker contact could be influenced with off-speed pitches</li>
+        <li>Launch angles between 10 and 26 degrees often presented desirable play results (Single/HomeRun) while launch angles greater than 30 resulted in outs</li>
+        <li>If a hitter can achieve high exit velocities (>100mph), coaches might consider implementing practice drills where hitters are encouraged to attack the ball within 10 to 26 degrees of launch angle</li>
+      </ul>
+    </li>
+    <li>Is there a statistically significant difference in mean Elbow Varus Torque at Max Shoulder External Rotation (Elb_Var_Torque_MER) between Pitchers (id_pitcher) 800021 and 800098? (α _< 0.05)<br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/444ae7f0-710f-456b-8cc5-a9af778099d9" alt="image" width="600"><br>
+      <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/21cf649e-d896-421f-8d0c-2165bc202e06" alt="image" width="600"></li>  
+    <li>Based on your findings from Question 4, provide further analysis on where you would recommend biomechanical intervention with either pitcher.<br>
 
-  <ul>
-    <li>Created Kinematic Sequence Visualizations: Developed detailed visualizations of the kinematic sequence using data from multiple pitches captured by the Hawk-Eye motion capture system, providing valuable insights into the pitchers' biomechanics.</li>
-    <li>Data Cleaning and Standardization: Successfully cleaned, standardized, and processed a vast dataset comprising over 10,000 data points from pitching motion capture, ensuring data accuracy and consistency for meaningful analysis.</li>
-   <li>Equipment and Procedure Recommendations: Advised on the selection of appropriate equipment and established best practices and procedures to obtain high-quality, actionable data, enhancing the overall reliability of the assessment.</li>
-  </ul>
+   Pitcher21 and Pitcher98 show a statistically significant difference in elbow varus torque at maximal external rotation while having similar average fastball and breaking ball velocities (Pitcher21 = 92.02/81.04mph, Pitcher98 = 92.71/82.35mph). This suggests that further investigation into Pitcher98's biomechanical capabilities is necessary.
+Considering the anatomical requirements of both the lower and upper extremities along with the trunk and pelvis during the pitching delivery at time of max external rotation, four upper extremity metrics, two lower, one thoracic, and one pelvic metric were correlated against elbow varus torque at max external rotation and pitch velocity within the entire pitching staff. One lower extremity and one thoracic variable of interest were identified to have a moderate negative correlation with elbow varus torque at max external rotation within the entire pitching staff: Trunk_Lean_MER (r = -0.47) and Lead_Ankle_EvInv_MER (r = -0.38). A statistical analysis was performed to identify if Pitcher98 had significantly different trunk lean and lead ankle positioning than the rest of the pitching staff. An independent, non-parametric, statistical test showed that Pitcher98 has statistically significant differences in both trunk lean and lead ankle positioning at max external rotation in comparison to the rest of the pitching staff.
+While individual pitching mechanics are infinitely unique in nature, these findings suggest assessing the biomechanical capabilities of Pitcher98’s trunk and lead ankle. Pitcher98 would likely benefit from a complete and detailed analysis of the stability and mobility of the lead ankle joint and thoracic spine. Meanwhile, assessment of the capabilities of the external and internal rotator musculature of the shoulder as well as scapulohumeral rhythm could provide further insight to the force accepting capabilities of Pitcher98’s medial elbow. It is also advised to monitor throwing volume and intensity for Pitcher98 given that he is undergoing significantly higher medial elbow forces compared to his teammate.
+
+      
+   <div style="display: flex;">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/42e553de-5c53-490c-8827-27de46869084" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/d5e3694b-f8d4-4a30-b5c7-b50535316605" alt="image" width="350">
+      </div>
+      <div style="display: flex;">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/cb67f3d5-9e4c-4e3e-9f2e-9a805bf6fcf5" alt="image" width="350">
+        <img src="https://github.com/ktrev123/Trevor-Abshire-Portfolio/assets/138731104/381dc685-8136-4f46-9b6e-f4ff245aa180" alt="image" width="350">
+      </div>
+    </li>
+  </ol>
 </details>
 
 <h2>General Coding Projects</h2>

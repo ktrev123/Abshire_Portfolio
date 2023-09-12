@@ -8,9 +8,9 @@ My name is Trevor Abshire, I am an ex-collegiate starting pitcher, currently ser
 
 In this portfolio, I showcase some of my projects, skills, and qualifications, demonstrating my ability to extract valuable insights from data and drive positive outcomes. I am excited to collaborate, share knowledge, and contribute to the field of data analytics in the context of sports and performance optimization.
 
-<h2>Master's Research</h2>
+<h2>Master's Research Test</h2>
 
-* [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes]([Portfolio/Masters_Capstone.pdf](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Masters_Capstone.pdf))
+* [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Masters_Capstone.pdf)
 * [Presentation](https://docs.google.com/presentation/d/10ydEif7umHqHEWsaBuOOOHQtksEO0aB8/edit?usp=sharing&ouid=115347872039751181548&rtpof=true&sd=true)
 
 

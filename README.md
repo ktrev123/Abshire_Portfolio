@@ -10,7 +10,7 @@ In this portfolio, I showcase some of my projects, skills, and qualifications, d
 
 <h2>Master's Research</h2>
 
-* [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes](Portfolio/Masters_Capstone.pdf)
+* [Lower Extremity Asymmetries and their Relationship to Pitching Ball Velocity and Bat Handle Velocity in College Baseball Athletes]([Portfolio/Masters_Capstone.pdf](https://github.com/ktrev123/Trevor-Abshire-Portfolio/blob/main/Portfolio/Masters_Capstone.pdf))
 * [Presentation](https://docs.google.com/presentation/d/10ydEif7umHqHEWsaBuOOOHQtksEO0aB8/edit?usp=sharing&ouid=115347872039751181548&rtpof=true&sd=true)
 
 

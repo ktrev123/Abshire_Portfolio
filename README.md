@@ -211,7 +211,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 <ul>
   <li>Vald ForceDecks</li>
   <li>Vald ForceFrame</li>
-  <li>Vald NordBoard</li>
+  <li>Vald NordBord</li>
   <li>Cortex Motion Capture</li>
   <li>Hawkins Dynamics Force Platforms</li>
   <li>EnodePro LPT</li>

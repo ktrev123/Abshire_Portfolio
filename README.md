@@ -238,6 +238,6 @@ While individual pitching mechanics are infinitely unique in nature, these findi
 
 <h2>Contact Information</h2>
 <ul>
-  <li><a href="mailto:tdabshire@ucdavis.edu">tdabshire@ucdavis.edu</a></li>
+  <li><a href="mailto:tabshire@cleguardians.com">tabshire@cleguardians.com</a></li>
   <li><a href="https://www.linkedin.com/in/trevorabshire/">Visit my LinkedIn profile</a></li>
 </ul>

@@ -203,6 +203,7 @@ While individual pitching mechanics are infinitely unique in nature, these findi
   <li>Python</li>
   <li>SQL</li>
   <li>Excel/Sheets</li>
+  <li>PowerBI</li>
   <li>Tableau</li>
   <li>SPSS</li>
 </ul>
